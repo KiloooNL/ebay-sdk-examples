@@ -87,7 +87,7 @@ There are several examples for each service that the SDK supports and they are l
 
 1. [Catalog](https://github.com/davidtsadler/ebay-sdk-examples/blob/catalog/metadata/README.md)
 
-1. [Complicance](https://github.com/davidtsadler/ebay-sdk-examples/blob/compliance/metadata/README.md)
+1. [Compliance](https://github.com/davidtsadler/ebay-sdk-examples/blob/master/compliance/README.md)
 
 To run an example from the command line use the `php` command followed by the name of the example file.
 
